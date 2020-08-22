@@ -4,8 +4,8 @@ description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
-baseurl             : "JesseTsang"                      # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          :                                   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+baseurl             : "/JesseTsang"                      # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : JesseTsang/jessetsang.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -55,12 +55,12 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  elements:                                             # For Documentation Only
-    output: true                                        # For Documentation Only
+  # elements:                                           # For Documentation Only
+  # output: true                                        # For Documentation Only
 
 
 ### Disqus ###
-disqus: your-short-name-disqus                          # Your website Shortname on disqus
+disqus: jesse-tsang-portfolio.disqus.com                # Your website Shortname on disqus
 
 
 ### Analytics ###
@@ -77,11 +77,11 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
+  # - scope:                                              # For Documentation Only
+  #     path: ""                                          # For Documentation Only
+  #     type: "elements"                                  # For Documentation Only
+  #   values:                                             # For Documentation Only
+  #     layout: "element"                                 # For Documentation Only
   - scope:
       path: ""
       type: "posts"
