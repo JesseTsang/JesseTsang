@@ -60,12 +60,12 @@ collections:
 
 
 ### Disqus ###
-disqus: jesse-tsang-portfolio.disqus.com                # Your website Shortname on disqus
+disqus: jesse-tsang-portfolio                             # Your website Shortname on disqus
 
 
 ### Analytics ###
 analytics:
-  enabled: true                                         # Set true to enable analytics
+  enabled: true                                           # Set true to enable analytics
   google:
     tracking_id: UA-176056328-1
 
@@ -86,7 +86,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      comments: true                                    # Set to true to enable disqus comments
+      comments: true                                      # Set to true to enable disqus comments
 
 ### Exclude from processing ###
 exclude:
