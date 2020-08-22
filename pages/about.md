@@ -13,7 +13,7 @@ While I consider myself a proficient full-stack developer, my interested is in b
 
 I am looking for a junior individual contributor role where I can gain experience.
 
-# **About Me**
+# **Personal Interests**
 
 My personal interests include:
 * Deep learning: It's an exciting time for machine learning. I'm working through serval online classes, and swap articles with collegues.

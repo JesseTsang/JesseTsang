@@ -1,11 +1,11 @@
 ### Site Settings ###
-title               : Jesse Tsang GitHub Portfolio
+title               : Jesse Tsang Portfolio
 description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
 baseurl             : "JesseTsang"                      # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : JesseTsang.github.io              # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          :                                   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -65,7 +65,7 @@ disqus: your-short-name-disqus                          # Your website Shortname
 
 ### Analytics ###
 analytics:
-  enabled: false                                        # Set true to enable analytics
+  enabled: true                                         # Set true to enable analytics
   google:
     tracking_id: UA-176056328-1
 
@@ -86,7 +86,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      comments: false                                   # Set to true to enable disqus comments
+      comments: true                                    # Set to true to enable disqus comments
 
 ### Exclude from processing ###
 exclude:
