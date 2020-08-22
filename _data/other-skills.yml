@@ -1,0 +1,11 @@
+- name: Windows Server Administration
+  percentage: 95
+  color: info
+
+- name: Linux
+  percentage: 90
+  color: success
+
+- name: Git
+  percentage: 80
+  color: success
