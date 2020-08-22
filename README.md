@@ -1,4 +1,8 @@
 ### Hi there 👋
+### Please head to https://jessetsang.github.io/JesseTsang to see the live site.
+
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ... ML application in finance and health care 
 
 <!--
 **JesseTsang/JesseTsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
