@@ -11,7 +11,6 @@ Hi I am **{{ site.author.name }}** :wave:,<br>
 I have over 4 years of experience as a software developer and have worked on small and large organizations.
 While I consider myself a proficient full-stack developer, my interested is in building scalable backend services (API services, Integration, and Automation).
 
-I am looking for a junior individual contributor role where I can gain experience.
 
 # **Personal Interests**
 
