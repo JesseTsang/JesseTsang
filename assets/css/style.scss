@@ -1,17 +1,13 @@
  ---
  ---
-
+/*
 .card-columns-custom {
-    column-count: 2;
-}
-
-.card-columns-custom2 {
   column-count: 2;
   column-gap: 1.25rem;
   orphans: 1;
   widows: 1;
   
-  /* .card {
+  .card {
     margin-bottom: $card-columns-margin;
   }
 
@@ -25,9 +21,9 @@
       display: inline-block; // Don't let them vertically span multiple columns
       width: 100%; // Don't let their width change
     }
-  } */
+  }
 }
-
+*/
 
  /* Add your custom style here */
- /* @import "portfolYOU"; */
+ /* import "portfolYOU"; */
