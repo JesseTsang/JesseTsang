@@ -4,9 +4,9 @@ description         : >-
                       I turn coffee :coffee: into code,
                       use tabs over spaces
                       and never broke production.
-baseurl             : "/JesseTsang"                      # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : JesseTsang/jessetsang.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+baseurl             : "/Manekineko-mk1"                      # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : Manekineko-mk1/Manekineko-mk1.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : Manekineko-mk1/portfolYOU
 
 
 ### Plugins ###
