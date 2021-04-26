@@ -2,6 +2,9 @@
  ---
 
 .card-columns-custom {
+  column-count: 2;
+  column-gap: 1.25rem;
+  
   .card {
     margin-bottom: $card-columns-margin;
   }
