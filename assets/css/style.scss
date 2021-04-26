@@ -2,6 +2,10 @@
  ---
 
 .card-columns-custom {
+    column-count: 2;
+}
+
+.card-columns-custom2 {
   column-count: 2;
   column-gap: 1.25rem;
   orphans: 1;
